@@ -21,18 +21,12 @@
 ---
 
 ## 💡 Projects  
-### 🔢 Prime Number Checker  
-_A simple program to check if a number is prime._  
-[🔗 View Project](#)  
+ 
 
 📌 More exciting projects coming soon! Stay tuned.  
 
 ---
 
-## 📬 Let's Connect!  
-<p align="center">
-  <a href="https://github.com/your-github-profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+## 📬 Let's Connect! 
 
 ⭐ **If you like my work, consider giving a star to my repositories!** 🌟
